@@ -1,0 +1,24 @@
+{
+  "originHash" : "824fa0410d1c611e8fa999338c7b455fd03e486e8863f4929a13b0c6b3cbdba9",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "e16d3481f5ed35f0472cb93350085853d754913f",
+        "version" : "5.10.1"
+      }
+    },
+    {
+      "identity" : "dependiject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tiny-Home-Consulting/Dependiject.git",
+      "state" : {
+        "revision" : "7f54260dd54fccaaceb57ff2564da15c39741814",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
